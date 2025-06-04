@@ -1,5 +1,6 @@
 DataEdu Analyzer
 Ferramenta de Análise Simplificada de Desempenho Acadêmico
+
 Descrição
 O DataEdu Analyzer é um projeto de extensão desenvolvido em Python com o objetivo de auxiliar educadores na gestão e análise de dados de desempenho acadêmico. A ferramenta transforma dados brutos de notas em informações claras e visuais, facilitando a identificação de padrões, desafios e oportunidades de melhoria no processo de aprendizagem.
 
